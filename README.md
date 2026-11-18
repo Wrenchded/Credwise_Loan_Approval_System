@@ -5,13 +5,9 @@ CredWise is Machine Learning-based Loan Approval System developed as my first mi
 ## Key Features
 
 - Exploratory Data Analysis (EDA) and data preprocessing.
-
 - Implementation of supervised machine learning algorithms.
-
 - Feature scaling using StandardScaler.
-
 - Model training and testing using Train-Test Split.
-
 - Performance evaluation and comparison of classification models.
 
 ## Machine Learning Algorithms
