@@ -30,4 +30,4 @@ CredWise is Machine Learning-based Loan Approval System developed as my first mi
 
 To understand and implement supervised machine learning techniques for a real-world financial use case: predicting loan approval decisions based applicant data.
 
-*Project Type* : Machine Learning - Minor Project
+**Project Type** : Machine Learning - Minor Project
